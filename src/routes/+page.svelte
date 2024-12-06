@@ -1,6 +1,10 @@
 <script>
   const listTutorial = [
     {
+      name: "Routing",
+      path: "/routing",
+    },
+    {
       name: "Form & Validation",
       path: "/form-validation",
     },
